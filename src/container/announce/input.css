@@ -1,0 +1,15 @@
+.input-item-style{
+    height: 50px;
+}
+.input-position {
+    width: 600px;
+    margin: 20px auto;
+}
+.textarea-position {
+    width: 500px;
+    margin: 10px auto;
+}
+.publish {
+    width: 100px;
+    margin: 20px auto;
+}
